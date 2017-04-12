@@ -1,0 +1,49 @@
+* {
+
+}
+/*Icon Section*/
+.container {
+  background-color: ;
+}
+
+.foure_icon {
+  height: 100px;
+  width: auto;
+}
+.nav_bar {
+  color: RED;
+background-color: WHITE;
+}
+.nav_bar ul {
+list-style-type: none;
+font-family: arial ,sans-serif;
+font-size: 30px;
+font-weight: bold;
+padding: 0px;
+border-style: solid;
+border-color: red;
+border-width: 2px;
+  height: 100px;
+  width: auto;
+}
+.nav_bar li {
+display: inline;
+position: relative;
+left: 19px;
+top: 40px;
+padding: 30px;
+
+}
+.body_container {
+  height: 1500px;
+  width: auto;
+  border: 2px;
+  border-style: solid;
+  border-color: red;
+}
+.landing_header {
+  color: red;
+  padding-left: 40px;
+  font-family: arial ,sans-serif;
+
+}
